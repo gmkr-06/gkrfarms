@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GKRFARMS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h1>Welcome to GKRFARMS</h1>
+        <p>Your source for high-quality agricultural products.</p>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We are a family-owned farm dedicated to sustainable agriculture.</p>
+    </section>
+
+    <section id="products">
+        <h2>Our Products</h2>
+        <ul>
+            <li>Wheat</li>
+            <li>Corn</li>
+            <li>Rice</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@gkrfarms.com</p>
+        <p>Phone: 123-456-7890</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 GKRFARMS. All rights reserved.</p>
+    </footer>
+</body>
+</html>
